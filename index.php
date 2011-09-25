@@ -165,7 +165,7 @@ $html = <<<HEREDOC
     <h2>Resulting source code:</h2>
     <pre>{$wikiTableOutput}</pre>
     <div class="footer">
-    <a href='?'>Source code</a>
+    <a href='https://github.com/MarianoLopezGappa/Spreadsheet-to-MediaWiki-table-Converter'>Source code</a>
     <a href='http://www.linkedin.com/profile/view?id=116781764'>Mariano Lopez-Gappa</a>
     spinetta(at)gmail(dot)com
     </div>
